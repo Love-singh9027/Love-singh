@@ -1,2 +1,2 @@
 # Love-singh
-wed designing
+Web designing
